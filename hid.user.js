@@ -4,7 +4,8 @@
 // @version      2025-05-17
 // @description  
 // @author       anonymous
-// @match        *://*/*
+// @match        https://heoid.com/
+// @match        https://nightmarket.ct.ws/gatchaparty/view-accounts.php
 // @icon         https://i.ibb.co/cSYnsP1b/cropped-logo-copy-32x32.png
 // @grant        none
 // ==/UserScript==
