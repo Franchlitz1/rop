@@ -7,6 +7,7 @@
 // @match        https://heoid.online/*
 // @match        https://heogaming.com/*
 // @match        https://heoid.com/*
+// @match        https://nightmarket.ct.ws/gatchaparty/view-accounts.php
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=heoid.online
 // @grant        none
 // ==/UserScript==
